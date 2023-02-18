@@ -1,2 +1,2 @@
 # IDATT2101-Algorithms-and-Datastructures
-Course work
+Course work for IDATT2101
